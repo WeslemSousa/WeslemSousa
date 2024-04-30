@@ -29,7 +29,6 @@
 ![sublime-text](https://img.shields.io/badge/-sublimetext-0D1117?style=for-the-badge&logo=sublime-text&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![MicrosoftOffice](https://img.shields.io/badge/-MicrosoftOffice-0D1117?style=for-the-badge&logo=MicrosoftOffice&labelColor=0D1117)&nbsp;
  
 ### Other Knowledge:
 ![Inkscape](https://img.shields.io/badge/-Inkscape-0D1117?style=for-the-badge&logo=Inkscape&labelColor=0D1117)&nbsp;
