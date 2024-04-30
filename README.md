@@ -39,7 +39,8 @@
 ![C++](https://img.shields.io/badge/c++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Ruby](https://img.shields.io/badge/ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=red)
-![PHP](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=blue) 
+![PHP](https://img.shields.io/badge/php-0D1117?style=for-the-badge&logo=php&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=purple&labelColor0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
