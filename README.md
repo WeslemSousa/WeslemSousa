@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="www.linkedin.com/in/weslem-sousa-650176236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117.svg?logo=linkedin&logoColor=blue"</a>
+<a href="https://linkedin.com/in/weslem-sousa-650176236" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117.svg?logo=linkedin&logoColor=blue"</a>
 </div> 
  
 ### Main skills:
